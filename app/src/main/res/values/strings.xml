@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ADK practical</string>
+    <string name="default_web_client_id" translatable="false">46004222240-dummyclientid.apps.googleusercontent.com</string>
+</resources>
